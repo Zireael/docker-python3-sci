@@ -1,4 +1,4 @@
-# Shrink LinAlg
+# Docker Python 3 SciMath package optimized for size
 This is a sample Dockerfile on how to optimize the disk space consumption from
 NumPy, SciPy, Pandas, and Matplotlib.
 
