@@ -1,5 +1,4 @@
-FROM python:3.6-slim-jessie
-MAINTAINER Scott Zelenka (szelenka)
+FROM python:3.8-slim
 
 COPY ./library-dependencies.txt /tmp/library-dependencies.txt
 COPY ./requirements.txt /tmp/requirements.txt
